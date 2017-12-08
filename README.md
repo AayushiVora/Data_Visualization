@@ -26,6 +26,6 @@ We could show the magnitude effect in 3D. Inspite of having data in two differen
 
 As the Component description said, we needed a time-varying visualization of the transportable array. Hence, for this we tried plotting the values of each latitude and longitude. However the plot was only shown for a second and not for the entire time duration. 
 
-+ Contribution of each group member
+## Contributions
 
 Entire team worked together for the Component 2. Aayushi and Shraddha tried managing the data by combining the location.tsv and data_tohoku_norm_transpose.csv files. Bhopesh and Aarushi worked on the look of the 3D view of the data. All the team members worked together for the coding of the movie. 
