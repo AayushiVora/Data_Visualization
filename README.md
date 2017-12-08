@@ -18,7 +18,7 @@ The data used is in a csv file format. This is how the TransformedData.csv looks
 
  In the code, a for loop is run to read each latitude, longitude and its respective magnitude at the 1st second. Once it is read, these values are converted into angles to plot in horizontal and vertical locations. The latitude value should be between 0 and Π. The longitude value should be between 0 and 2Π. According transformations are done to latitude and longitude values. The magnitude values are shown using the unit vector 'PVector'. The pushMatrix() and popMatrix() are used for plotting points.  
 
-## Strength:
+## Strength
 
 We could show the magnitude effect in 3D. Inspite of having data in two different files of different format, we managed to combine the files in the csv format and used for the 3D plotting.
 
