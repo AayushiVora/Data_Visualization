@@ -1,6 +1,6 @@
 # COMPONENT 2
 
-## Approach taken:
+## Approach taken
 
 The movie aims to show the points where the earthquake affected at the 1st second. It represents the effect of earthquake at 1st second in a 3D view. The height of the points from the surface of the earth represents the magnitude.
 
