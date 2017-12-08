@@ -4,7 +4,7 @@
 
 `The movie aims to show the points where the earthquake affected at the 1st second. It represents the effect of earthquake at 1st second in a 3D view. The height of the points from the surface of the earth represents the magnitude.`
 
-![](earthquake.png)
+
 
 We created a movie for Component 2 in Processing (Java) using spherical coordinates. This movie is basically a 3D view of the world. The reference for this code is taken from 
 <https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_58_EarthQuakeViz3D>. The data used for this Component is the same earthquake data that is used for Component 1.
